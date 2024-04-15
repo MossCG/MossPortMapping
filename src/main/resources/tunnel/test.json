@@ -1,0 +1,6 @@
+{
+  "tunnelID": "test",
+  "tunnelUser": "test",
+  "portServer": 23333,
+  "portLocal": 25565
+}

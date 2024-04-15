@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MossPortMapping">
+    <output-path>$PROJECT_DIR$/out/artifacts/MossPortMapping</output-path>
+    <root id="archive" name="MossPortMapping.jar">
+      <element id="module-output" name="MossPortMapping" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/depend/MossLib.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

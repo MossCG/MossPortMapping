@@ -1,0 +1,5 @@
+{
+  "userID": "test",
+  "userName": "测试ID",
+  "portAllow": "22,10000-65535"
+}
