@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a9a801c-5845-4d84-861a-7690fcc4e919" name="变更" comment="Rewrite with MossLib, finish file read part">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MossPortMapping.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/depend/MossLib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/mossmc/mosscg/MossPortMapping/Command/CommandAddUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mossmc/mosscg/MossPortMapping/Tunnel/TunnelCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mossmc/mosscg/MossPortMapping/User/UserCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/configClient.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/configServer.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tunnel/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/user/test.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/mossmc/mosscg/MossPortMapping/BasicInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mossmc/mosscg/MossPortMapping/BasicInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/mossmc/mosscg/MossPortMapping/Logger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/mossmc/mosscg/MossPortMapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mossmc/mosscg/MossPortMapping/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +50,8 @@
     "last_opened_file_path": "D:/IDEA/IdeaProjects/MossPortMapping/src/main/resources",
     "project.structure.last.edited": "工件",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2954023"
+    "project.structure.side.proportion": "0.2954023",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -89,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677333143361</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Rewrite with MossLib, finish file read part">
+      <created>1713148293895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713148293895</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
